@@ -273,8 +273,7 @@ def executeCrawler():
                         ).readlines()
                         taskIDs.append(result[0].split('ID: ')[
                                        1].replace("\n'", ''))
-                        print('Id adicionado com sucesso.')
-                        break
+                        print('Id adicionado com sucesso.')                        
                     except:
                         result = 1
                     if result == 1:
