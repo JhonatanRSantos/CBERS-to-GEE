@@ -3,7 +3,7 @@ Import images into Google Erath Engine from CBERS.
 
 Installation:
 
-[1] - Download and configure Google Cloud SDK. https://cloud.google.com/storage/docs/gsutil_install?hl=pt-br
-[2] - Run the code and install all dependencies.
-[3] - Enter with your imformation from INPE and Google Earth Engine (GEE).
-[4] - Select which images you wanna import into GEE.
+<b>[1]</b> - Download and configure Google Cloud SDK. https://cloud.google.com/storage/docs/gsutil_install?hl=pt-br <br>
+<b>[2]</b> - Run the code and install all dependencies. <br>
+<b>[3]</b> - Enter with your imformation from INPE and Google Earth Engine (GEE). <br>
+<b>[4]</b> - Select which images you wanna import into GEE. <br>
